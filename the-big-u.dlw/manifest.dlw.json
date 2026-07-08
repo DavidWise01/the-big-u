@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "The university as a closed universe, collapsing into itself. He spent the rest of his career writing open ones.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 889,
+    "prev": "77e045ebf26cfc6f96448dd9dab23430fe1e3e740f9623666b425b6f4c397f17",
+    "link": "a41bd1b833fc8ffd3cc84a09621bf86af21051849b573840e064018ace226006",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
